@@ -29,3 +29,36 @@ for var index2 = 0; index2 < strArray.count/2; index2++ {
 }
 print(strArray)
 
+
+// Reverse words
+
+//var str2 = "Hi there I'm a new string"
+//
+//var buffer = [Character]()
+//var stack = [String]()
+//var result = ""
+//
+//for character in str2.characters {
+//    
+//    if String(str2.characters) == " " {
+//        stack.append(String(buffer))
+//        buffer = [Character]()
+//    } else {
+//        buffer.append(character)
+//    }
+//    
+//    stack.append(String(buffer))
+//    
+//    for var index = stack.count-1; index >= 0; index-- {
+//        result = result + "" + stack[index]
+//    }
+//    
+//}
+//print(result)
+//
+//print(stack)
+//print(buffer)
+//print(String(buffer))
+
+
+
